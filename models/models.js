@@ -57,6 +57,13 @@ module.exports = {
       speed: speedmodes["xiaowa-e202-02"],
     },
   ],
+  // E4
+  "roborock.vacuum.a01": [
+    {
+      speed: speedmodes.gen3,
+      waterspeed: watermodes["gen1+custom"],
+    },
+  ],
   "roborock.vacuum.a08": [
     {
       speed: speedmodes.gen3,
